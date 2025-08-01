@@ -1,0 +1,11 @@
+{
+  "description": "Byron Loarte Portfolio",
+  "repo": "https://byrontosh.github.io/",
+  "owner": {
+    "username": "byrontosh",
+    "email": "by_tosh20@hotmail.com"
+  },
+  "record": {
+    "CNAME": "byrontosh.github.io"
+  }
+}
